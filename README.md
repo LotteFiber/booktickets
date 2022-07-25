@@ -1,16 +1,25 @@
 # booktickets
 
-A new Flutter project.
+[Practice] Flutter 3.0 Master Class for Beginners to Advanced 2022 | Ticket Booking App Development Tutorial
 
-## Getting Started
+https://www.youtube.com/watch?v=71AsYo2q_0Y&list=PL515tN-ALhVhaVVwsYQ_v8xneswRsjelq&index=2&t=1377s
 
-This project is a starting point for a Flutter application.
+Flutter 3.0 app development tutorial master class for beginners to advanced 2022. This ticket booking app covers Flutter for very beginners to advanced learners. We start from very simple ui like drawing text to complex layout using stack and mixture of column and row widget.
 
-A few resources to get you started if this is your first Flutter project:
+We also built reusable widget to reduce code amount.  So at the end of this tutorial you learn how to build simple to complex reusable flutter widgets.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The widgets we built in this tutorial
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. reusable style component
+
+2. reusable color pallet
+
+3. reusable column widget
+
+4. reusable layout builder widget
+
+5. reusable column widget
+
+6. reusable row widget
+
+7. reusable ticket widget
